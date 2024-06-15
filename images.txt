@@ -1,1 +1,1 @@
-lobehub/lobe-chat:最新
+lobehub/lobe-chat
